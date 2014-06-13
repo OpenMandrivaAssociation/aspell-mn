@@ -11,7 +11,7 @@
 Summary:	%{languageenglazy} files for aspell
 Name:		aspell-%{languagecode}
 Version:	0.06.2
-Release:	5
+Release:	6
 Group:		System/Internationalization
 Url:		http://aspell.net/
 License:	GPLv2
