@@ -13,7 +13,7 @@ Name:		aspell-%{languagecode}
 Version:	0.06.2
 Release:	12
 Group:		System/Internationalization
-Url:		http://aspell.net/
+Url:		https://aspell.net/
 License:	GPLv2
 Source0:	http://ftp.gnu.org/gnu/aspell/dict/%{languagecode}/%{fname}-%{src_ver}.tar.bz2
 
